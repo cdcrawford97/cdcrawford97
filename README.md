@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Cameron Crawford.</h2>
+<h2> Hey there! I'm Cameron</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.<br/>
